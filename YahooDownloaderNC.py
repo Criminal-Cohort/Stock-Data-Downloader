@@ -7,7 +7,6 @@ from inputimeout import inputimeout, TimeoutOccurred
 import pandas as pd
 import csv
 
-
 try:
     path_file = os.path.join(os.getcwd(), "Book1.xlsx")
     path = os.path.join(os.getcwd(), "historicalData")
