@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f296e9ee-4c8d-44be-a5b1-5b8050a2534e" name="Changes" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/dist/YahooDownloaderNC.exe" beforeDir="false" />
-    </list>
+    <list default="true" id="f296e9ee-4c8d-44be-a5b1-5b8050a2534e" name="Changes" comment="Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +25,8 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Vihaan/ThirdPartySoftware/Python/DadWork/PortfoilioManager"
   }
 }]]></component>
   <component name="SharedIndexes">
